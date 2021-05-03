@@ -7,9 +7,9 @@ categories: jekyll update
 
 Throughout the pandemic the US issued an economic relief totalling 4 TUSD in an assortment of loans, grants and tax breaks. That sums to about 20% of their 2020 GDP.
 
-If, `Government Budget = Taxes - Costs`, what does this non-trivial budget deficit mean and how should it influence my future economic choices? 
+If, `Government Budget = Taxes - Costs`, what does this non-trivial deficit mean and how should it influence my economic choices? 
 
-I don't have a mental model on monetary intervention although one thing is clear. Anything, other than the gifts of nature, you will end up paying for.
+I don't have a mental model on monetary intervention. Although one thing is clear; eventually we pay for everything (other than the gifts of nature).
 
 To rationalize intervention, I turned my eye to those who argue against it; the Austrian Economists. 
 
