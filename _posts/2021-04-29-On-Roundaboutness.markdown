@@ -9,14 +9,14 @@ Throughout the pandemic the US issued an economic relief totalling 4 TUSD in an 
 
 If, `Government Budget = Taxes - Costs`, what does this non-trivial budget deficit mean and how should it influence my future economic choices? 
 
-I don't have a mental model on monetary intervention although one thing is clear, anything, other than the gifts of nature, we'll end up paying for.
+I don't have a mental model on monetary intervention although one thing is clear. Anything, other than the gifts of nature, you will end up paying for.
 
-To rationalize intervention, I turned my eye to those who claim against it; the Austrian Economists. 
+To rationalize intervention, I turned my eye to those who argue against it; the Austrian Economists. 
 
-I usually find introductionary books a good way to gauge my interest and time commitment, so I picked **The Dao of Capital: Austrian Investing in a Distorted World**.
+Because I find introductionary books a good way to gauge my interest and time commitment, I picked **The Dao of Capital: Austrian Investing in a Distorted World**.
 
-The following ara a few ideas I found interesting from the book:
-
+The following ara a few ideas I found interesting from the book although note, these are broad market observations from an Austrian perspective and not necesarily an answer to the intervention question.
+ 
 **Roundaboutness.** 
 
 The central intuition is that to increase the chances of winning against your competition, immediate and direct tactics tend to be ineffective. 
@@ -37,3 +37,4 @@ Human nature then is the systematic source of investment mispricing which is rip
 Statistics and history are tools for deduction, not truth themselves. 
 
 Intervention distorts the markets efficiency to find equilibrium, rather than calming them as intended. 
+
