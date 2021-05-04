@@ -15,22 +15,21 @@ One thing is clear, we pay for everything other than the gifts of nature.
 \
 To rationalize intervention, I turned my eye to those who argue against it -- the Austrian Economists. 
 
-Introductory reads are a good way to gauge my actual interest on a topic and the time commitment, so I picked the book **The Dao of Capital: Austrian Investing in a Distorted World**.
+Introductory reads are the obvious way to gauge my interest and future time commitment for a topic, so I picked the book **The Dao of Capital: Austrian Investing in a Distorted World**.
 
-The following are broad market observations from an Austrian perspective and not answers themselves. The priority for now is to build intuition first and bring positional statements second.
+The following are broad market observations from an Austrian perspective. My priority is to build intuition first and bring a positional opinion second.
  
 **Roundaboutness.** 
 
-The central idea is that to increase the chances of winning against your competition, immediate and direct tactics tend to be ineffective. 
-The author claims that roundaboutness is more effective, which means to cede ground now in favor of creating the **means** for a decisive attack in the future. Squaring this idea with capital.  
-
-Use today's gains as means to secure future progress and not as a payment of past performance. 
-
-Capital structures serve to exploit disequilibirums in the economy, making intertemporal tradeoffs allows you to build the means to satisfy the consumer (focusing on the means rather than the ends).
+A central idea is that to increase the chances of winning against your competition, immediate and direct tactics tend to be ineffective. 
+Roundaboutness means to cede ground now in favor of creating the **means** for a decisive attack in the future. 
+Squaring this idea with capital it'd be something like this: 
+- Use today's gains as means to secure future progress and not as a payment of past performance. 
+- Capital structures serve to exploit disequilibirums in the economy, making intertemporal tradeoffs allows you to build the means to satisfy the consumer (focusing on the means rather than the ends).
 
 **On the human desire for immediacy (aka Hyperbolic Discounting)** 
 
-The key idea is that humans have a the temporal bias for immediacy, which is a propensity to assign more value to the most available, salient and tangible to us. This bias helps explain 1) how we assign value temporally (now >> later), and, 2) our miscalculated ability to carry out in the future what today seems doable (eg. I'll start exercising next monday, instead of today).
+The intuition is that humans have a the temporal bias for immediacy, which is a propensity to assign more value to the most available, salient and tangible to us. This bias helps explain 1) how we assign value temporally (now >> later), and, 2) our miscalculated ability to carry out in the future what today seems doable (eg. I'll start exercising next monday, instead of today).
 
 Human nature then is the systematic source of investment mispricing which is ripe for intertemporal arbitrage.
 
