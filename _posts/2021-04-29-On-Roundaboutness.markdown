@@ -7,26 +7,28 @@ categories: jekyll update
 
 Throughout the pandemic the US issued an economic relief totalling 4 TUSD in an assortment of loans, grants and tax breaks. That sums to about 20% of their 2020 GDP.
 
-If `Government Budget = Taxes - Costs`, what does this non-trivial deficit mean and how should it influence my economic choices? 
+If a Goverment Budget is `Taxes - Expenses`, what does this non-trivial deficit mean and how should it affect my economic choices? 
 
-I don't have a mental model on monetary intervention although one thing is clear, we pay for everything other than the gifts of nature.
+One thing is clear, we pay for everything other than the gifts of nature.
+
+---
 
 To rationalize intervention, I turned my eye to those who argue against it -- the Austrian Economists. 
 
-Introductory books a good way to gauge my interest and time commitment, so I picked **The Dao of Capital: Austrian Investing in a Distorted World**.
+Introductory reads are a good way to gauge my actual interest on a topic and the time commitment, so I picked the book **The Dao of Capital: Austrian Investing in a Distorted World**.
 
-The following ara a few ideas I found interesting from the book although note, these are broad market observations from an Austrian perspective and not necesarily an answer to the intervention question.
+The following are broad market observations from an Austrian perspective and not answers themselves. The priority for now is to build intuition first and bring positional statements second.
  
 **Roundaboutness.** 
 
-The central intuition is that to increase the chances of winning against your competition, immediate and direct tactics tend to be ineffective. 
+The central idea is that to increase the chances of winning against your competition, immediate and direct tactics tend to be ineffective. 
 The author claims that roundaboutness is more effective, which means to cede ground now in favor of creating the **means** for a decisive attack in the future. Squaring this idea with capital.  
 
 Use today's gains as means to secure future progress and not as a payment of past performance. 
 
 Capital structures serve to exploit disequilibirums in the economy, making intertemporal tradeoffs allows you to build the means to satisfy the consumer (focusing on the means rather than the ends).
 
-**On the human desire for immediacy.** 
+**On the human desire for immediacy (aka Hyperbolic Discounting)** 
 
 The key idea is that humans have a the temporal bias for immediacy, which is a propensity to assign more value to the most available, salient and tangible to us. This bias helps explain 1) how we assign value temporally (now >> later), and, 2) our miscalculated ability to carry out in the future what today seems doable (eg. I'll start exercising next monday, instead of today).
 
