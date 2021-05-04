@@ -11,8 +11,8 @@ If a Goverment Budget is `Taxes - Expenses`, what does this non-trivial deficit 
 
 One thing is clear, we pay for everything other than the gifts of nature.
 
----
-
+---  
+\
 To rationalize intervention, I turned my eye to those who argue against it -- the Austrian Economists. 
 
 Introductory reads are a good way to gauge my actual interest on a topic and the time commitment, so I picked the book **The Dao of Capital: Austrian Investing in a Distorted World**.
