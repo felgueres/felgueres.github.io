@@ -9,8 +9,6 @@ Throughout the pandemic the US issued an economic relief totalling 4 TUSD in an 
 
 If a Goverment Budget is `Taxes - Expenses`, what does this non-trivial deficit mean and how should it affect my economic choices? 
 
-One thing is clear, we pay for everything other than the gifts of nature.
-
 ---  
 \
 To rationalize intervention, I turned my eye to those who argue against it -- the Austrian Economists. 
