@@ -15,9 +15,9 @@ To rationalize intervention, I turned my eye to those who argue against it -- th
 
 Introductory reads are the obvious way to gauge my interest and future time commitment for a topic, so I picked the book **The Dao of Capital: Austrian Investing in a Distorted World**.
 
-The following are broad market observations from an Austrian perspective. My priority is to build intuition first and bring a positional opinion second.
+The following are broad market observations from an Austrian perspective. The intention is to build intuition first and positional statement second.
  
-**Roundaboutness.** 
+**Roundaboutness** 
 
 A central idea is that to increase the chances of winning against your competition, immediate and direct tactics tend to be ineffective. 
 Roundaboutness means to cede ground now in favor of creating the **means** for a decisive attack in the future. 
@@ -31,7 +31,7 @@ The intuition is that humans have a the temporal bias for immediacy, which is a 
 
 Human nature then is the systematic source of investment mispricing which is ripe for intertemporal arbitrage.
 
-**Austrian Ideas.** 
+**Austrian Primitives.** 
 
 Statistics and history are tools for deduction, not truth themselves. 
 

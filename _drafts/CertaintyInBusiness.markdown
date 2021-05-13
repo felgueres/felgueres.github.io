@@ -29,14 +29,14 @@ That process is to:
 What can be done differently?
 
 1) Data Collection. This is the primitive to find resolution. Without data, you don't have information, without information, there's only opinion. 
-Opinion's are subjective and partial, therefore undeterministic, therefore risky, risk = cost. Cost gets passed to the end user. 
-
-2) Data and Rules Assessment.  
+Opinion's are subjective and partial, therefore undeterministic, therefore riskier.
 
 Risk trickles down the cost stucture of a product or service and ends up being passed to the consumer.
+ 
+2) Data Interpretation.  
 
 Multiple possibilities:
-- Voting mechnism to resolve a dispute across several 3rd parties or analysis 
+- Voting mechanism to resolve a dispute across several 3rd parties or analysis 
 - Discrete rule evaluation.
 
 3) Resolution Mechanism
@@ -46,7 +46,7 @@ Questions:
 Is there a theory around uncertainty and cost?
 - 2-axes, plot uncertainty vs. cost. The more uncertainty the higher the cost. What's the relationship? Is it exponential? Is it linear?
 
-Would insurance companies be incentivized to fund this efforts?
+Would insurance companies be incentivized to fund this effort?
 
 How can this fail? 
 
