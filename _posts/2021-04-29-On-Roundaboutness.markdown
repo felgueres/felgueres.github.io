@@ -15,7 +15,7 @@ To rationalize intervention, I turned my eye to those who argue against it -- th
 
 Introductory reads are the obvious way to gauge my interest and future time commitment for a topic, so I picked the book **The Dao of Capital: Austrian Investing in a Distorted World**.
 
-The following are broad market observations from an Austrian perspective. The intention is to build intuition first and positional statement second.
+The following are broad market observations from an Austrian perspective. The intention is to build intuition first and develop a positional statement second.
  
 **Roundaboutness** 
 
