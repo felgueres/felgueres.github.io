@@ -15,7 +15,6 @@ Perhaps because we hate to talk about ourselves or perhaps because our actions a
 
 ---  
 \
-
 My belief is that these identities are the moldings of our future. 
 
 A beautiful thing about markets is that they will give you what you want.
