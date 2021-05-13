@@ -15,12 +15,12 @@ Perhaps because we hate to talk about ourselves or perhaps because our actions a
 
 ---  
 \
-My belief is that these identities are the moldings of our future. 
-
 A beautiful thing about markets is that they will give you what you want.
 
-Consequentially, unexamined asks, or a lack of articulation on what is it that we want will likely result in a future that optimizes for the near-sighted, the immediate and fleeting.
+My belief is that over time, these identities are the moldings of our future by influencing the supply side of all transactions.
 
-Can we do better than that? 
+Consequentially, a lack of articulation or worse, unexamined asks, will likely result in a future that optimizes for the near-sighted, the immediate and the fleeting.
 
-Imagine a tool that can help us make sense of our identities to transalate intuitions into facts. 
+Could we do better than that? 
+
+Imagine a tool that can help us make sense of our identities to translate intuitions into facts. 
