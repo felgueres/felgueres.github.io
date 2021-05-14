@@ -15,11 +15,11 @@ Perhaps because we hate to talk about ourselves or perhaps because our actions a
 
 ---  
 \
-My belief is that these identities mold our future by influencing how markets serve us. 
+My belief is that these identities mold the future by influencing how markets serve us. 
 
 That's the beautiful thing about markets, they give you what you want.
 
-Consequentially, poorly articulated or unexamined asks will likely result in a future that optimizes what is most natural for humans; the near-sighted and fleeting pleasures.
+Consequentially, poorly articulated or unexamined asks will likely result in a future that optimizes what is most natural for humans; the near-sightedness and fleeting pleasures.
 
 If you could ask for the future we want, do you know what to ask for? 
 
