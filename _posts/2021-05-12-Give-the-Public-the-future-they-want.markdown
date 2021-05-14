@@ -15,12 +15,13 @@ Perhaps because we hate to talk about ourselves or perhaps because our actions a
 
 ---  
 \
-A beautiful thing about markets is that they will give you what you want.
+My belief is that over time, these identities mold of our future by influencing the markets that serve us. 
 
-My belief is that over time, these identities are the moldings of our future by influencing the supply side of all transactions.
+That's the beautiful thing about markets, they will give you what you want.
 
-Consequentially, a lack of articulation or worse, unexamined asks, will likely result in a future that optimizes for the near-sighted, the immediate and the fleeting.
+Consequentially, poorly articulated wants or worse, unexamined asks, will likely result in a future that optimizes what is natural for us; the near-sighted, the immediate, the fleeting pleasures.
 
 Could we do better than that? 
 
-Imagine a tool that can help us make sense of our identities to translate intuitions into facts. 
+Imagine a tool that can help us understand the identities we exert on the markets, a tool that could turn our intuitions into facts. 
+
