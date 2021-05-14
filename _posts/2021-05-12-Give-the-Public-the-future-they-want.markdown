@@ -21,7 +21,7 @@ That's the beautiful thing about markets, they give you what you want.
 
 Consequentially, poorly articulated or unexamined asks will likely result in a future that optimizes what is most natural for humans; the near-sightedness and fleeting pleasures.
 
-If you could ask for the future we want, do you know what to ask for? 
+If you could ask for the future, do you know what to ask for? 
 
 Imagine a tool that can help us understand the identities we exert on the markets, a tool that could turn our intuitions into facts. 
 
