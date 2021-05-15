@@ -5,11 +5,11 @@ date:   2021-05-13 08:53:00 -0700
 categories: jekyll update
 ---
 
-We make economic decisions using two guiding considerations, monetary incentives and our sense of identity.
+Economic decisions are guided by two considerations, monetary incentives and a sense of identity ([wiki][https://en.wikipedia.org/wiki/Identity_economics]).
 
 Identity is a reflection of our values and beliefs which we build by association and action (eg. the places we visit, the clothes we wear, the artists we support).
 
-If I ask you, what is your identity? It's uncomfortably hard to come up with an answer.
+But if I asked you, what is your identity? It's uncomfortably hard to come up with an answer.
 
 Perhaps because we hate to talk about ourselves or perhaps because our actions are largely driven by intuition and not by careful examination. 
 
@@ -19,9 +19,9 @@ My belief is that these identities mold the future by influencing how markets se
 
 That's the beautiful thing about markets, they give you what you want.
 
-Consequentially, poorly articulated or unexamined asks will likely result in a future that optimizes what is most natural for humans; the near-sightedness and fleeting pleasures.
+Consequentially, poorly articulated or unexamined asks will likely result in a future that optimizes for what is most natural for humans; near-sightedness and fleeting pleasures.
 
-If you could ask for the future, do you know what to ask for? 
+If you could ask for the future, would you know what to ask for? 
 
-Imagine a tool that can help us understand the identities we exert on the markets, a tool that could turn our intuitions into facts. 
+Imagine a tool that could help us understand these identities, a tool that could turn our intuitions into facts. 
 
