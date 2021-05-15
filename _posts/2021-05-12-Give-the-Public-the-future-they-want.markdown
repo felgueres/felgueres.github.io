@@ -5,7 +5,7 @@ date:   2021-05-13 08:53:00 -0700
 categories: jekyll update
 ---
 
-Economic decisions are guided by two considerations, monetary incentives and a sense of identity ([wiki][https://en.wikipedia.org/wiki/Identity_economics]).
+Economic decisions are guided by two considerations, monetary incentives and a sense of identity ([wiki](https://en.wikipedia.org/wiki/Identity_economics)).
 
 Identity is a reflection of our values and beliefs which we build by association and action (eg. the places we visit, the clothes we wear, the artists we support).
 
