@@ -29,7 +29,7 @@ Squaring this idea with capital it'd be something like this:
 
 The intuition is that humans have a the temporal bias for immediacy, which is a propensity to assign more value to the most available, salient and tangible to us. This bias helps explain 1) how we assign value temporally (now >> later), and, 2) our miscalculated ability to carry out in the future what today seems doable (eg. I'll start exercising next monday, instead of today).
 
-Human nature then is the systematic source of investment mispricing which is ripe for intertemporal arbitrage.
+Human nature then is a systematic source of mispricing which is ripe for intertemporal arbitrage (ie. patience is the strongest form of arbitrage). 
 
 **Austrian Primitives.** 
 
