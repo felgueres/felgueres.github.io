@@ -1,6 +1,6 @@
 --- 
 layout: post
-title:  "Give the public the future they want"
+title:  "Economic identities mold the future"
 date:   2021-05-13 08:53:00 -0700
 categories: jekyll update
 ---
@@ -21,7 +21,9 @@ That's the beautiful thing about markets, they give you what you want.
 
 Consequentially, poorly articulated or unexamined asks will likely result in a future that optimizes for what is most natural for humans; near-sightedness and fleeting pleasures.
 
-If you could ask for the future, would you know what to ask for? 
+If you could ask for the future, do you know what to ask for? 
 
-Imagine a tool that could help us understand these identities, a tool that could turn our intuitions into facts. 
+What if there was a tool that helped us understand these identities? 
+
+A tool that could turn our intuitions into facts. 
 
