@@ -46,8 +46,6 @@ Questions:
 Is there a theory around uncertainty and cost?
 - 2-axes, plot uncertainty vs. cost. The more uncertainty the higher the cost. What's the relationship? Is it exponential? Is it linear?
 
-Would insurance companies be incentivized to fund this effort?
-
 How can this fail? 
 
 If the incentive of companies is not to maximize cost efficiency (eg. FutureSun).
@@ -56,8 +54,4 @@ Why is this important for humans?
 Because it levels the information asymmetry across parties and promotes fairness and an equality in the world. Think of Mexico and lawyers.  
 
 What's the inefficiency cost over disputes?
-
-WHAT CAN A PROTOCOL DO HERE?
-
-- Protocols out there?
 
