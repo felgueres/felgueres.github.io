@@ -1,6 +1,6 @@
 --- 
 layout: post
-title:  "A roundabout intro to Austrian Economics"
+title:  "A roundabout intro to Austrian economics."
 date:   2021-04-29 21:25:24 -0700
 categories: jekyll update
 ---
