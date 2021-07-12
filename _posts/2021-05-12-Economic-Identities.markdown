@@ -1,6 +1,6 @@
 --- 
 layout: post
-title:  "Economic identities mold the future"
+title:  "The future is molded by economic identities." 
 date:   2021-05-13 08:53:00 -0700
 categories: jekyll update
 ---
